@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ciao, sono Mario Rossi 👋
 
-<!--
-**fredens91/fredens91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno sviluppatore appassionato di sviluppo web e machine learning.
 
-Here are some ideas to get you started:
+## 🔧 Competenze
+- **Linguaggi**: Python, JavaScript, HTML, CSS
+- **Framework**: React, Django, Flask
+- **Database**: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Progetti in evidenza
+- [Project Name](link) - Descrizione breve del progetto.
+- [Altro Project](link) - Descrizione breve del progetto.
+
+## 📫 Contatti
+- [LinkedIn](https://www.linkedin.com/tuoprofilo)
+- [Email](mailto:tuaemail@example.com)
