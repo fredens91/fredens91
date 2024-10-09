@@ -1,9 +1,5 @@
 # Ehilà, Fede here ✌️
-
 ## Web Developer
-
-## 
-<br>
 <h2 align="center">🔧 Working with</h2>
 <br/>
 <div align="center">
