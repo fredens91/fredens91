@@ -1,6 +1,5 @@
-<h1 align="center">Hi! It's Fede ✌️</h1>
+<h1 align="center">Hi! It's Fede.</h1>
 <div align="center">
- <img width="300px" src="https://media1.tenor.com/m/fohZ_MHo2UMAAAAC/cat-cats.gif">
 </div>
 <h2 align="center">🔧 I'm Working with</h2>
 <br/>
