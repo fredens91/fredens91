@@ -5,7 +5,7 @@
 <h2 align="center">🔧 I'm Working with</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript"/>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,javascript,typescript"/>
     <img src="https://skillicons.dev/icons?i=nodejs,angular,cs,wordpress,php,powershell,py,obsidian"/><br>
 </div>
 <br>
