@@ -6,6 +6,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,angular,cs,wordpress,php,powershell,obsidian"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,cs,wordpress,php,powershell,py,obsidian"/><br>
 </div>
 <br>
