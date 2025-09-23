@@ -1,4 +1,3 @@
-<p align="center">Hi! It's Fede.</p>
 <p align="center">Full Stack Web Developer with a strong interest in process management and facilitation.</p>
 <div align="center">
 </div>
