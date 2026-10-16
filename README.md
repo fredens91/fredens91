@@ -1,4 +1,4 @@
-<p align="center">Full Stack Web Developer with a strong interest in process management and facilitation.</p>
+<p align="center">Making other people’s lives easier.</p>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,nodejs"/><br>
